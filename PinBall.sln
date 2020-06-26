@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinBall", "PinBall.csproj", "{E7548844-F5D3-0D78-19E2-D9FBF5F009FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinBall.Plugins", "PinBall.Plugins.csproj", "{5872FC48-34F3-9227-22B7-A47C4A87FAB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinBall.Editor", "PinBall.Editor.csproj", "{B077D950-6EC1-9746-F637-24AD7A4EDE28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7548844-F5D3-0D78-19E2-D9FBF5F009FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7548844-F5D3-0D78-19E2-D9FBF5F009FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7548844-F5D3-0D78-19E2-D9FBF5F009FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7548844-F5D3-0D78-19E2-D9FBF5F009FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5872FC48-34F3-9227-22B7-A47C4A87FAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5872FC48-34F3-9227-22B7-A47C4A87FAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5872FC48-34F3-9227-22B7-A47C4A87FAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5872FC48-34F3-9227-22B7-A47C4A87FAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B077D950-6EC1-9746-F637-24AD7A4EDE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B077D950-6EC1-9746-F637-24AD7A4EDE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B077D950-6EC1-9746-F637-24AD7A4EDE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B077D950-6EC1-9746-F637-24AD7A4EDE28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
